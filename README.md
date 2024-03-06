@@ -1,6 +1,6 @@
 # Etch-A-Sketch
 
-A project using JavaScript, HTML, and CSS.
+A project uses JavaScript, HTML, and CSS.
 
 <a href="https://ssweilee.github.io/Etch-A-Sketch/" target="_blank">
 Live Demo
